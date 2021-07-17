@@ -1,4 +1,4 @@
-# 文献模型复现
+# Thesis-Translation-and-Model-Reproduction
 本工程复现了论文Evaluation of Classification algorithms for Distributed Denial of Service Attack Detection中的四种模型，同时完成了该论文的翻译工作
 
 ## Folders:
